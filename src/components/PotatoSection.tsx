@@ -6,9 +6,13 @@ const PotatoSection = () => {
     >
       <div className="container mx-auto px-4 text-center">
         <div className="max-w-4xl mx-auto">
-          <h2 className="text-4xl md:text-6xl lg:text-7xl font-bold text-potato-dark mb-8">
-            Welcome to $POTA
-          </h2>
+          <div className="flex justify-center mb-8">
+            <img 
+              src="/lovable-uploads/fd017534-a7f9-4893-93f3-7fb00eec5750.png" 
+              alt="$POTA" 
+              className="h-24 md:h-32 lg:h-40 w-auto object-contain"
+            />
+          </div>
           <p className="text-xl md:text-2xl text-potato-brown mb-12 leading-relaxed">
             The most adorable potato in the crypto world! 🥔
           </p>
