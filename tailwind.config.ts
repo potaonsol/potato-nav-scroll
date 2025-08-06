@@ -52,6 +52,17 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				potato: {
+					beige: 'hsl(var(--potato-beige))',
+					brown: 'hsl(var(--potato-brown))',
+					dark: 'hsl(var(--potato-dark))'
+				},
+				ketchup: {
+					red: 'hsl(var(--ketchup-red))'
+				},
+				fries: {
+					yellow: 'hsl(var(--fries-yellow))'
+				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
