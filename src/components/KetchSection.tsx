@@ -18,17 +18,29 @@ const KetchSection = () => {
               Here, every crispy bite tells a story of perfection and flavor.
             </p>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mt-8">
-              <div className="bg-fries-yellow/20 rounded-2xl p-6 border border-fries-yellow/30">
-                <h3 className="text-xl font-bold text-potato-dark mb-3">🔥 Hot & Fresh</h3>
-                <p className="text-potato-brown">Always served at the perfect temperature</p>
+              <div className="bg-fries-yellow/20 rounded-2xl p-6 border border-fries-yellow/30 flex flex-col items-center">
+                <img 
+                  src="/lovable-uploads/7daddc89-1402-40d3-9ee6-c3cfa2fe906d.png" 
+                  alt="Phantom Wallet" 
+                  className="h-16 w-16 mb-4"
+                />
+                <p className="text-potato-dark font-semibold">Step 1: Download Phantom</p>
               </div>
-              <div className="bg-ketchup-red/20 rounded-2xl p-6 border border-ketchup-red/30">
-                <h3 className="text-xl font-bold text-potato-dark mb-3">🍅 Perfect Dip</h3>
-                <p className="text-potato-brown">The ideal ketchup companion</p>
+              <div className="bg-ketchup-red/20 rounded-2xl p-6 border border-ketchup-red/30 flex flex-col items-center">
+                <img 
+                  src="/lovable-uploads/b617a1be-ac8b-4e4b-8bdb-f5e78e53ced0.png" 
+                  alt="Solana" 
+                  className="h-16 w-16 mb-4"
+                />
+                <p className="text-potato-dark font-semibold">Step 2: Buy or Transfer $SOL</p>
               </div>
-              <div className="bg-potato-brown/20 rounded-2xl p-6 border border-potato-brown/30">
-                <h3 className="text-xl font-bold text-potato-dark mb-3">⭐ Premium Quality</h3>
-                <p className="text-potato-brown">Made from the finest potatoes</p>
+              <div className="bg-potato-brown/20 rounded-2xl p-6 border border-potato-brown/30 flex flex-col items-center">
+                <img 
+                  src="/lovable-uploads/5cab15aa-5b0c-4f75-95c2-c56924cb8488.png" 
+                  alt="Potato Character" 
+                  className="h-16 w-16 mb-4"
+                />
+                <p className="text-potato-dark font-semibold">Step 3: Search $POTA and ketch' me!</p>
               </div>
             </div>
           </div>

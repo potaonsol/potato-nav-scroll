@@ -26,7 +26,7 @@ const Navigation = () => {
             <img 
               src="/lovable-uploads/a1bc84b5-4b53-4bf1-ae78-9895ba9ad1dd.png" 
               alt="$POTA" 
-              className="h-20 md:h-24 lg:h-28 w-auto object-contain transition-transform duration-300 group-hover:rotate-3"
+              className="h-40 md:h-48 lg:h-56 w-auto object-contain transition-transform duration-300 group-hover:rotate-3"
             />
           </button>
 
@@ -39,7 +39,7 @@ const Navigation = () => {
             <img 
               src="/lovable-uploads/ddae39e7-2c81-4ad9-b271-1a3210fba445.png" 
               alt="X Potato" 
-              className="h-20 md:h-24 lg:h-28 w-auto object-contain transition-transform duration-300 group-hover:rotate-3"
+              className="h-40 md:h-48 lg:h-56 w-auto object-contain transition-transform duration-300 group-hover:rotate-3"
             />
           </button>
 
@@ -52,7 +52,7 @@ const Navigation = () => {
             <img 
               src="/lovable-uploads/a8c48ad9-aa9f-4aef-bf6b-221af744caf3.png" 
               alt="KETCH ME" 
-              className="h-20 md:h-24 lg:h-28 w-auto object-contain transition-transform duration-300 group-hover:rotate-3"
+              className="h-40 md:h-48 lg:h-56 w-auto object-contain transition-transform duration-300 group-hover:rotate-3"
             />
           </button>
         </div>

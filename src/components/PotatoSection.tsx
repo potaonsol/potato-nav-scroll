@@ -19,7 +19,8 @@ const PotatoSection = () => {
           <div className="bg-card/80 backdrop-blur-sm rounded-3xl p-8 md:p-12 shadow-2xl border border-potato-brown/20">
             <p className="text-lg md:text-xl text-foreground leading-relaxed">
               Join the potato revolution and discover the charm of $POTA. 
-              From humble beginnings in the digital soil to becoming the most beloved spud on the blockchain.
+              From humble beginnings in the digital soil to becoming the most beloved spud on the blockchain. 
+              Let's fry the charts with $POTA now!
             </p>
           </div>
         </div>
