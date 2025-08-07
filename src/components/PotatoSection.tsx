@@ -13,7 +13,7 @@ const PotatoSection = () => {
               className="h-72 md:h-96 lg:h-[30rem] w-auto object-contain"
             />
           </div>
-          <p className="text-2xl md:text-4xl text-potato-brown mb-18 leading-relaxed font-comic">
+          <p className="text-2xl md:text-4xl text-potato-brown mb-8 leading-relaxed font-comic">
             The most adorable potato in the crypto world! 🥔
           </p>
           <div className="bg-card/80 backdrop-blur-sm rounded-3xl p-8 md:p-12 shadow-2xl border border-potato-brown/20 mb-18">

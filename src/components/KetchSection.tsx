@@ -13,10 +13,10 @@ const KetchSection = () => {
               className="h-[36rem] md:h-[48rem] lg:h-[60rem] w-auto object-contain"
             />
           </div>
-          <p className="text-2xl md:text-4xl text-potato-dark mb-14 leading-relaxed font-comic">
+          <p className="text-2xl md:text-4xl text-potato-dark mb-8 leading-relaxed font-comic">
             The perfect companion to our beloved potato - crispy, golden, and irresistible!
           </p>
-          <div className="bg-card/90 backdrop-blur-sm rounded-3xl p-8 md:p-12 shadow-2xl border border-ketchup-red/20 mb-12">
+          <div className="bg-card/90 backdrop-blur-sm rounded-3xl p-8 md:p-12 shadow-2xl border border-ketchup-red/20 mb-8">
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mt-8">
               <div className="bg-fries-yellow/20 rounded-2xl p-6 border border-fries-yellow/30 flex flex-col items-center">
                 <img 
@@ -47,12 +47,12 @@ const KetchSection = () => {
           
           {/* Supply Information */}
           <div className="flex justify-center">
-            <div className="bg-card/90 backdrop-blur-sm rounded-3xl p-8 shadow-2xl border border-ketchup-red/20">
+            <div className="bg-card/90 backdrop-blur-sm rounded-3xl p-8 shadow-2xl border border-ketchup-red/20 max-w-4xl w-full">
               <div className="flex flex-col items-center">
                 <img 
                   src="/lovable-uploads/cb18384a-e489-4b30-bd58-fa983a79c175.png" 
                   alt="Ketchup Bottle" 
-                  className="h-32 w-auto object-contain"
+                  className="h-48 md:h-64 w-auto object-contain"
                 />
               </div>
             </div>
