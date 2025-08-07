@@ -10,10 +10,10 @@ const KetchSection = () => {
             <img 
               src="/lovable-uploads/838f906d-f106-4cc1-88ff-42507720a12e.png" 
               alt="KETCH ME NOW!" 
-              className="h-96 md:h-[32rem] lg:h-[40rem] w-auto object-contain"
+              className="h-[36rem] md:h-[48rem] lg:h-[60rem] w-auto object-contain"
             />
           </div>
-          <p className="text-2xl md:text-4xl text-potato-dark mb-18 leading-relaxed font-comic">
+          <p className="text-2xl md:text-4xl text-potato-dark mb-14 leading-relaxed font-comic">
             The perfect companion to our beloved potato - crispy, golden, and irresistible!
           </p>
           <div className="bg-card/90 backdrop-blur-sm rounded-3xl p-8 md:p-12 shadow-2xl border border-ketchup-red/20 mb-12">
@@ -50,11 +50,10 @@ const KetchSection = () => {
             <div className="bg-card/90 backdrop-blur-sm rounded-3xl p-8 shadow-2xl border border-ketchup-red/20">
               <div className="flex flex-col items-center">
                 <img 
-                  src="/lovable-uploads/KETCH-ME-NOW-06-08-2025.png" 
+                  src="/lovable-uploads/cb18384a-e489-4b30-bd58-fa983a79c175.png" 
                   alt="Ketchup Bottle" 
-                  className="h-32 w-auto object-contain mb-4"
+                  className="h-32 w-auto object-contain"
                 />
-                <p className="text-3xl font-bold text-ketchup-red font-comic">SUPPLY: 1,000,000,000</p>
               </div>
             </div>
           </div>

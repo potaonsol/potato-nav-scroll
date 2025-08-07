@@ -6,7 +6,7 @@ const PotatoSection = () => {
     >
       <div className="container mx-auto px-4 text-center">
         <div className="max-w-4xl mx-auto">
-          <div className="flex justify-center mb-12">
+          <div className="flex justify-center mb-6">
             <img 
               src="/lovable-uploads/8b433ac7-8307-4fad-a518-575db7291bdc.png" 
               alt="I AM $POTA" 
@@ -45,7 +45,7 @@ const PotatoSection = () => {
                     <img 
                       src={potato.src}
                       alt={potato.alt}
-                      className="h-72 md:h-96 w-72 md:w-96 object-contain"
+                      className="h-48 md:h-64 w-48 md:w-64 object-contain"
                     />
                   </div>
                 </div>
@@ -71,7 +71,7 @@ const PotatoSection = () => {
                     <img 
                       src={potato.src}
                       alt={potato.alt}
-                      className="h-72 md:h-96 w-72 md:w-96 object-contain"
+                      className="h-48 md:h-64 w-48 md:w-64 object-contain"
                     />
                   </div>
                 </div>
