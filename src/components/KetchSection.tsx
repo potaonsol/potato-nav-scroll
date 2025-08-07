@@ -6,7 +6,7 @@ const KetchSection = () => {
     >
       <div className="container mx-auto px-4 text-center">
         <div className="max-w-4xl mx-auto">
-          <div className="flex justify-center mb-12">
+          <div className="flex justify-center mb-6">
             <img 
               src="/lovable-uploads/838f906d-f106-4cc1-88ff-42507720a12e.png" 
               alt="KETCH ME NOW!" 
